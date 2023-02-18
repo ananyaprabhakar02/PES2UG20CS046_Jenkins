@@ -22,4 +22,4 @@ post{
 failure{
 sh 'echo "Pipeline Failed"' }
 }
-}
+
